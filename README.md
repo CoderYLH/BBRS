@@ -5,7 +5,7 @@
 
 #### Note: Due to file size limitations, the longer video demos can be viewed on the following platforms:
 ### [Bilibili](https://www.bilibili.com/video/BV1Z7421K7sA) 
-### [YouTube](https://youtu.be/S9_5DW_Q1GE) 
+### [YouTube](https://youtu.be/XZq4_yCtj5Y) 
 ---
 ## <div align="center">Basic information about the manuscript
 #### <div align="left">"Yilei Hu; Jinyang Xu; Zhichao Gou; Jiaqi Xiong; Yibin Ying; Jinming Pan and Di Cui. CBRNet: an end-to-end multi-object broiler behavior recognition algorithm based on temporal information"</div>
